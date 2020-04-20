@@ -13,14 +13,14 @@
     Learned and used several DevOps tools such as Teamcity for CI and Octopus for CD
     
 - layout: left
-  company: Marchex (Telmetrics)
-  link: https://telmetrics.com/
-  job_title: Jr Dev / Jr QA
-  dates: May 15 - Sept 1 2017 & May 15, 2018 - Aug 30 2019
+  company: S&C Electric (Alameda, California)
+  link: 
+  job_title: Jr Dev
+  dates: June 2015 - August 2015 & June 2016 - August 2016
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Worked as a Jr developer and QA. Worked on C# .NET backend API with Angular(1/2) Frontent. 
-    SQLServer Development including scripting, developing databases, and optimizing queries
-    Performed QA engineering with selenium and testcomplete along with standard QA workflows such as functional and regression testing
-    Learned and used several DevOps tools such as Teamcity for CI and Octopus for CD
+    Worked as a Jr developer. Worked on C# .NET backend API
+    Andriod development for Salesforce app
+    Contributed to Salesforce development including data triggers, visualforce pages, security, and connected apps
+    Data lead on salesforce, creating data models and managing data

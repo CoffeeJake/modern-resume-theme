@@ -1,9 +1,8 @@
 # Education Template
 - layout: left
-  name: University of Toronto - St. George
-  dates: 2015-2020
-  qualification: BA Arts and Science - Statistics & Cognitive Science
-  quote: >
-    Short institution or course description (optional)
+  name: University of Toronto-St. George
+  dates: (2015-2020)
+  qualification: BA - Statistics & Cognitive Science
+  quote: > 
   description: | # this will include new lines to allow paragraphs
     Description of qualification

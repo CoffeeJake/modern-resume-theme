@@ -7,7 +7,7 @@ name: Jacob Solis
 title: Developer
 email: jacobsolis123@gmail.com
 phone: 647-606-2344
-website: Your website (eg. https://google.com)(optional)
+website: https://coffeejake.github.io/website/
 
 darkmode: false
 
@@ -17,10 +17,10 @@ github_username:  CoffeeJake
 instagram_username: jacobsolis_
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)

@@ -25,8 +25,8 @@
     
 - layout: top-middle
   name: Music Chart Analysis
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  link: 
+  github: 
   quote: >
     Comparing song positions across different music charts to identify listening styles across platforms
   description: | # this will include new lines to allow paragraphs

@@ -1,5 +1,26 @@
 # Project template
 - layout: top-middle
+  name: Shopify Contract Project
+  link: 
+  github: 
+  quote: >
+    A datamangement contract to listen to shopify webhooks for stores and update databases 
+  description: | # this will include new lines to allow paragraphss
+    - Contracted to connect a shopify store to a warehouse database
+    - Listen for shopify webhooks, and update/create orders accordingly as they come in
+    - Synchronize store inventory, data and complete fulfillments automatically
+    - Hosted on AWS using NodeJS and Python (Flask)
+    - Shopify React front end for organizing settings
+
+- layout: top-middle
+  name: JustABit
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+- layout: top-middle
   name: Project name
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)

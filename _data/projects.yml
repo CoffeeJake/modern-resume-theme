@@ -14,17 +14,22 @@
 
 - layout: top-middle
   name: JustABit
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  link:
+  github: 
   quote: >
-    Short overview of the project (optional)
+    U of Waterloos's Hack the North 2016 Winner
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    - Bitcoin tipping project using Estimote beacons
+    - Android front end and AWS server integration for backend
+    - Coinbase API winner for the Android app “JustABit”
+    
 - layout: top-middle
-  name: Project name
+  name: Music Chart Analysis
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Comparing song positions across different music charts to identify listening styles across platforms
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    - Scrappy based scraping many different music charts (Spotify, Apple, Billboard)
+    - Data analysis on songs rising and falling to indicate what kind of user someone is
+    - Attempting to identify fast rising songs across many platforms to find hits from sources such as tik tok or memes

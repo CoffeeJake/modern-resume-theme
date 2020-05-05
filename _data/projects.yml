@@ -11,6 +11,7 @@
     - Synchronize store inventory, data and complete fulfillments automatically
     - Hosted on AWS using NodeJS and Python (Flask)
     - Shopify React front end for organizing settings
+    - Code and Server created massive efficiencies replacing 3 contracted workers 
 
 - layout: top-middle
   name: JustABit
@@ -22,6 +23,7 @@
     - Bitcoin tipping project using Estimote beacons
     - Android front end and AWS server integration for backend
     - Coinbase API winner for the Android app “JustABit”
+    - won one bitcoin as prize
     
 - layout: top-middle
   name: Music Chart Analysis

@@ -1,5 +1,19 @@
 # Experience template
 - layout: left
+  company: Animo Ai
+  link: https://www.animo.ai/
+  job_title: Lead Developer
+  dates: June 2020 - Present
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    - Lead a development team to deliver features consistently that matched product spec
+    - Primarily personally tasked with creating and upgrading API routes to meet feature requirements along with database architecture and optimizations
+    - Migrated 2 fullstack repos to one provider (AWS) from various other cloud providers (heroku, gcp, gh-pages, firebase)
+    - Created and deployed development pipelines from repository to build/testing/deployment on AWS
+    - Optimized database queries to increase speed by 200% and decrease cloud read requests by half saving the company thousands of dollars in cloud server costs
+    - Taught team members to understand enterprise developer product cycles such as git flows, pull requests, effective peer programming, architecture and deployment
+    
+- layout: left
   company: Marchex (Telmetrics)
   link: https://telmetrics.com/
   job_title: Jr Dev / Jr QA
